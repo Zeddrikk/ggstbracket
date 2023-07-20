@@ -1,2 +1,2 @@
 # ggstbracket
-thing fuck off
+thing 
